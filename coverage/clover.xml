@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1707801470482" clover="3.2.0">
+  <project timestamp="1707801470482" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5" elements="9" coveredelements="9" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="C:\Users\Mytth\Desktop\Домашка\JS 2nd module\Задания по 2му модулю\ajs-homeworks-master\ajs-homeworks-master\containers\set\src\js\main.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
